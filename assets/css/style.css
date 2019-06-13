@@ -1,3 +1,6 @@
+body {
+    margin: 0px;
+}
 h1 {
     position: fixed;
     top: 0px;
@@ -23,12 +26,18 @@ img {
     margin: 0px 25px;
     float: left;
 }
+.bodyContainer {
+    height: 100%;
+    width: 100%;
+    background-image: url("C:\Users\User Name\Basic-Portfolio\assets\images\Scales.png");
+    background-repeat: repeat-x repeat-y;
+}
 .mytext {
     color: #777777;
     font-size: 20px;
     clear: right;
 }
-.mainContainer {
+.headContainer {
     position: fixed;
     top: 0px;
     right: 0px;
@@ -74,7 +83,7 @@ img {
     text-decoration: none;
 }
 .container {
-    margin: 200px 190px 120px 190px;
+    margin: 180px 200px 180px 200px;
     padding: 20px;
     border: #f1f1f1 1px;
     border-style: solid;
