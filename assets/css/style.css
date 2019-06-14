@@ -1,5 +1,7 @@
 body {
     margin: 0px;
+    background: url("assets/images/scales.png");
+    background-repeat: repeat;
 }
 h1 {
     position: fixed;
@@ -29,8 +31,6 @@ img {
 .bodyContainer {
     height: 100%;
     width: 100%;
-    background-image: url("C:\Users\User Name\Basic-Portfolio\assets\images\Scales.png");
-    background-repeat: repeat-x repeat-y;
 }
 .mytext {
     color: #777777;

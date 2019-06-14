@@ -1,3 +1,6 @@
+html {
+    background: url("assets/images/scales.png");
+}
 body {
     margin: 0px;
 }
@@ -25,8 +28,6 @@ h2 {
 .bodyContainer {
     height: 100%;
     width: 100%;
-    background-image: url("C:\Users\User Name\Basic-Portfolio\assets\images\Scales.png");
-    background-repeat: repeat-x repeat-y;
 }
 .headContainer {
     position: fixed;
