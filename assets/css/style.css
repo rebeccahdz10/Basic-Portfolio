@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background: url("assets/images/scales.png");
+    background: url("../images/scales.png");
     background-repeat: repeat;
 }
 h1 {
@@ -25,7 +25,7 @@ h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img {
-    margin: 0px 25px;
+    margin: 0px 25px 25px 0px;
     float: left;
 }
 .bodyContainer {
@@ -55,7 +55,7 @@ img {
 .about {
     position: absolute;
     top: 0px;
-    right: 350px;
+    right: 390px;
     color: #777777;
     padding: 25px;
     background-color: #ffffff;
@@ -65,7 +65,7 @@ img {
 .portfolio {
     position: absolute;
     top: 0px;
-    right: 250px;
+    right: 290px;
     color: #777777;
     padding: 25px;
     background-color: #ffffff;
@@ -75,7 +75,7 @@ img {
 .contact {
     position: absolute;
     top: 0px;
-    right: 150px;
+    right: 190px;
     color: #777777;
     padding: 25px;
     background-color: #ffffff;
