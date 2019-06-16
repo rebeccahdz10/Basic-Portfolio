@@ -20,11 +20,9 @@ h2 {
     padding: 20px;
     padding-bottom: 1.5rem;
     background-color: #ffffff;
-    border-bottom-color: #dddddd;
+    border-bottom-color: #cccccc;
     border-bottom-style: solid;
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-p {
 }
 img {
     margin: 0px 25px 25px 0px;
@@ -93,7 +91,7 @@ img {
     margin: 180px 200px 150px 175px;
     padding: 20px;
     width: 960px;
-    border: 1px solid #f1f1f1;
+    border: 1px solid #dddddd;
     background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -169,7 +167,6 @@ img {
 }
 .bottom {
     position: relative;
-    vertical-align: text-bottom;
 }
 .feet {
     position: absolute;
